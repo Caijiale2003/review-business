@@ -1,0 +1,6 @@
+# 定义换行符规则
+*.go text eol=lf
+*.mod text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+* text=auto
